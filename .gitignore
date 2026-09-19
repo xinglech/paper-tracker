@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+paper_tracker_seen.json
+*.log
