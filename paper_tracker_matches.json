@@ -1,0 +1,104 @@
+{
+  "checked_at": "2026-09-19 22:33",
+  "new_ids": 105,
+  "matches": [
+    {
+      "arxiv": "2609.19162",
+      "title": "Holomorphic Quantum Error Correction Codes",
+      "authors": "M.W. AlMasri",
+      "subject": "Quantum Physics (quant-ph)",
+      "cat": "quant-ph"
+    },
+    {
+      "arxiv": "2609.19308",
+      "title": "Temporal information processing on a 4,500-qubit quantum annealer",
+      "authors": "Antonio Sannia, Roberto Menta, Pratik Sathe, Dario De Santis, Vittorio Giovannetti, Luis Pedro García-Pintos, Davide Venturelli, Gian Luca Giorgi, Roberta Zambrini, Francesco Caravelli",
+      "subject": "Quantum Physics (quant-ph)",
+      "cat": "quant-ph"
+    },
+    {
+      "arxiv": "2609.19784",
+      "title": "Transduction-Enabled Superconducting Quantum Repeater: Toward Deterministic Entanglement Distribution with High-Fidelity Gates",
+      "authors": "Francesco Fiorini, Jing Wu, Andrew Cameron, Changqing Wang, Doga M. Kurkcuoglu, Rosario G. Garroppo, Michele Pagano, Silvia Zorzetti",
+      "subject": "Quantum Physics (quant-ph)",
+      "cat": "quant-ph"
+    },
+    {
+      "arxiv": "2609.19931",
+      "title": "Quantum WalkScore: Benchmarking Quantum Computers on the Graph Nodefinding Problem",
+      "authors": "Noé Olivier, Michel Nowak",
+      "subject": "Quantum Physics (quant-ph)",
+      "cat": "quant-ph"
+    },
+    {
+      "arxiv": "2609.20182",
+      "title": "QECirc: A Community-Driven, FAIR Library of Quantum Error Correction Circuits",
+      "authors": "Ludwig Schmid, Tom Peham, Robert Wille",
+      "subject": "Quantum Physics (quant-ph)",
+      "cat": "quant-ph"
+    },
+    {
+      "arxiv": "2609.20219",
+      "title": "Verification Meets Calibration: Bounds and Secret-Independent State Preparation with an NV-Center as a Case Study",
+      "authors": "Ezra Acalapati, Elham Kashefi, Cica Gustiani",
+      "subject": "Quantum Physics (quant-ph)",
+      "cat": "quant-ph"
+    },
+    {
+      "arxiv": "2609.20254",
+      "title": "Multiparameter sensing of axion dark matter with superconducting-qubit networks",
+      "authors": "Le Bin Ho",
+      "subject": "Quantum Physics (quant-ph)",
+      "cat": "quant-ph"
+    },
+    {
+      "arxiv": "2609.20406",
+      "title": "The effects of shot noise on the quantum computation of NMR spectra",
+      "authors": "Sebastian Walch, Keith R. Fratus, Jan-Michael Reiner, Igor Lesanovsky",
+      "subject": "Quantum Physics (quant-ph)",
+      "cat": "quant-ph"
+    },
+    {
+      "arxiv": "2609.20523",
+      "title": "Noise-Robust Quantum State Characterization for Remote State Preparation with Deep Learning",
+      "authors": "Bo Tang, Zixuan Liao, Hao Li, Yilin Yang, Jiani Lei, Zengya Li, Jing Qiu, Zhaohui Dong, Zhengyang Mao, Yuanhua Li, Yuanlin Zheng, Xianfeng Chen",
+      "subject": "Quantum Physics (quant-ph)",
+      "cat": "quant-ph"
+    },
+    {
+      "arxiv": "2609.20549",
+      "title": "Scalable logical qubits",
+      "authors": "Matthias Troyer, Chetan Nayak, John Martinis",
+      "subject": "Quantum Physics (quant-ph)",
+      "cat": "quant-ph"
+    },
+    {
+      "arxiv": "2609.20573",
+      "title": "FT-Weave: Real-Time Compilation Framework for Reconfigurable Fault-Tolerant Quantum Architectures",
+      "authors": "Wan-Hsuan Lin, Milan Kornjača, Chen Zhao, Sheng-Tao Wang, Jason Cong",
+      "subject": "Quantum Physics (quant-ph)",
+      "cat": "quant-ph"
+    },
+    {
+      "arxiv": "2609.20644",
+      "title": "Quantum Noise Limited Nonlinear Phase-Preserving Amplification of a Bosonic Mode",
+      "authors": "Abel te Riele, Tzula B. Propp",
+      "subject": "Quantum Physics (quant-ph)",
+      "cat": "quant-ph"
+    },
+    {
+      "arxiv": "2609.20766",
+      "title": "Analytic leakage suppression with a single control field: fast two-qubit gates with tunable couplers",
+      "authors": "Lukas Heunisch, Michael J. Hartmann, Aashish A. Clerk",
+      "subject": "Quantum Physics (quant-ph)",
+      "cat": "quant-ph"
+    },
+    {
+      "arxiv": "2609.20141",
+      "title": "Characterization of spatially inhomogeneous chirp in ultrashort multielectron beams via femtosecond hole burning",
+      "authors": "Yuichi Tachibana, Yuya Morimoto",
+      "subject": "Optics (physics.optics)",
+      "cat": "physics.optics"
+    }
+  ]
+}
